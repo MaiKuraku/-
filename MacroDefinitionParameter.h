@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 // Cartesian three-dimensional coordinates
 struct cartesianCoordinates
 {
